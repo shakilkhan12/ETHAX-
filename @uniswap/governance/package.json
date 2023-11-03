@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "@uniswap/governance@1.0.2",
+      "/Users/veerasarma/Documents/surendran/One_80/one80_farmspools/frontend"
+    ]
+  ],
+  "_from": "@uniswap/governance@1.0.2",
+  "_id": "@uniswap/governance@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-L7BzdI/asAINB2F6EvJuQcg5YhykNeEfZxJrn2RPIVvx+9A9u+opDuqnBK4SYnanrsr3UEX1NwWXwDHmyw2TjQ==",
+  "_location": "/@uniswap/governance",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@uniswap/governance@1.0.2",
+    "name": "@uniswap/governance",
+    "escapedName": "@uniswap%2fgovernance",
+    "scope": "@uniswap",
+    "rawSpec": "1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uniswap/governance/-/governance-1.0.2.tgz",
+  "_spec": "1.0.2",
+  "_where": "/Users/veerasarma/Documents/surendran/One_80/one80_farmspools/frontend",
+  "author": {
+    "name": "Noah Zinsmeister"
+  },
+  "description": "🏛 Governance contracts for the Uniswap protocol",
+  "devDependencies": {
+    "@types/chai": "^4.2.12",
+    "@types/mocha": "^8.0.3",
+    "@uniswap/v2-core": "^1.0.1",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.1.0",
+    "ethereumjs-util": "^7.0.4",
+    "mocha": "^8.1.3",
+    "prettier": "^2.1.1",
+    "rimraf": "^3.0.2",
+    "solc": "0.5.16",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  },
+  "files": [
+    "build"
+  ],
+  "license": "MIT",
+  "name": "@uniswap/governance",
+  "scripts": {
+    "compile": "waffle",
+    "lint": "prettier ./test/**/*.ts --check",
+    "precompile": "rimraf ./build/",
+    "prepublishOnly": "yarn test",
+    "pretest": "yarn compile",
+    "test": "mocha"
+  },
+  "version": "1.0.2"
+}

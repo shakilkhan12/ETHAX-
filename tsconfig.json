@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    // "target": "es5",
+    "module": "esnext",
+    "sourceMap": false,
+    "moduleResolution": "Node",
+    "target": "ES6",
+    "lib": ["DOM", "ES6", "DOM.Iterable", "ScriptHost", "ES2016.Array.Include"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "src"
+  ],
+
+}

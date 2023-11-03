@@ -1,0 +1,65 @@
+{
+    "tokens": [
+        {
+            "pid": 0,
+            "lpSymbol": "ETHAX-BUSD LP",
+            "lpAddresses": {
+                "97": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA",
+                "56": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA"
+            },
+            "tokenSymbol": "ETHAX",
+            "tokenAddresses": {
+                "97": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4",
+                "56": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4"
+            },
+            "quoteTokenSymbol": "BUSD",
+            "quoteTokenAdresses": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "token": "serializedTokens.ethax",
+            "quoteToken": "serializedTokens.busd"
+        },
+        {
+            "pid": 1,
+            "lpSymbol": "ETHAX-BNB LP",
+            "lpAddresses": {
+                "97": "0x1915ddEb50db91a50Ae9afad343fa75512fbf220",
+                "56": "0x1915ddEb50db91a50Ae9afad343fa75512fbf220"
+            },
+            "tokenSymbol": "ETHAX",
+            "tokenAddresses": {
+                "97": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4",
+                "56": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4"
+            },
+            "quoteTokenSymbol": "BNB",
+            "quoteTokenAdresses": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "token": "serializedTokens.ethax",
+            "quoteToken": "serializedTokens.wbnb"
+        },
+        {
+            "lpSymbol": "ETHAX",
+            "isTokenOnly": true,
+            "pid": 2,
+            "sousId": 0,
+            "stakingToken": "serializedTokens.ethax",
+            "earningToken": "serializedTokens.ethax",
+            "contractAddress": {
+                "97": "0x1a8EE6994970F4967227cBBa3fB06ca2bbdD0aEc",
+                "56": "0x1a8EE6994970F4967227cBBa3fB06ca2bbdD0aEc"
+            },
+            "lpAddresses": {
+                "97": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA",
+                "56": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA"
+            },
+            "tokenAddresses": {
+                "97": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4",
+                "56": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4"
+            },
+            "poolCategory": "PoolCategory.CORE",
+            "harvest": true,
+            "tokenPerBlock": "10",
+            "sortOrder": 0,
+            "isFinished": false,
+            "quoteTokenSymbol": "BUSD",
+            "quoteTokenAdresses": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+        }
+    ]
+}

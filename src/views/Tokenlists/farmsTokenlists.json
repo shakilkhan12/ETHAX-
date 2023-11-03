@@ -1,0 +1,32 @@
+{
+    "tokens": [
+        {
+            "pid": 0,
+            "lpSymbol": "ETHAX-BUSD LP",
+            "addsymbol":"ETHAX-BUSD",
+            "lpAddresses": {
+                "97": "0x9D1f8C941D4A0745FEf6D6cC02b0FEFC93d3e47f",
+                "56": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA"
+            },
+            "token": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4",
+            "quoteToken": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "status":"Live",
+            "logoURI":"https://www.ethax.io/images/ETHAX-BUSD.png"
+        },
+        {
+            "pid": 1,
+            "lpSymbol": "ETHAX-BNB LP",
+            "addsymbol":"ETHAX-BNB",
+            "lpAddresses": {
+                "97": "0x9D1f8C941D4A0745FEf6D6cC02b0FEFC93d3e47f",
+                "56": "0x1915ddEb50db91a50Ae9afad343fa75512fbf220"
+            },
+            "token": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4",
+            "quoteToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "status":"Live",
+            "logoURI":"https://www.ethax.io/images/ETHAX-BNB.png"
+
+        }
+    ]
+}
+

@@ -1,0 +1,169 @@
+[{
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "name": "Wrapped BNB",
+    "projectLink": "https://www.paxos.com/busd/",
+    "symbol": "WBNB"
+  },
+  {
+    "address": "0xa4e8f898e6a6abe8e3c71bf62eb5fef025353a01",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "SBT",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "SBT"
+  },
+  {
+    "address": "0x279199010Fa389942654719aC62cDA7496091dE3",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "BSUM Bep20",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "BSUM"
+  },
+  {
+    "address": "0x6f702c1eeFd33908E9d80747C373158CE4eb8b52",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "TRBA",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "TRBA"
+  },
+  {
+    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "Cardano",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "ADA"
+  },
+  {
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "BTCB Token",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "BTCB"
+  },
+  {
+    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "DOGE Token",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "DOGE"
+  },
+  {
+    "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "Polkadot",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "DOT"
+  },
+  {
+    "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "UNI",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "UNI"
+  },
+  {
+    "address": "0xfe750cbc661076F917bDd73Bf38708B5768dfd24",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "META",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "META Index"
+  },
+  {
+    "address": "0x93ae1Ea1A9Dab503C1aaae6897D90C4F3e9adFbd",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "CO2",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "CO2"
+  },
+  {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "BUSD",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "BUSD"
+  },
+  {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "Tether-USDT",
+          "projectLink": "http://212.71.233.123:2083/tokens/tether.png",
+          "symbol": "USDT"
+  },
+  {
+    "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "SyrupBar Token",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "SYRUP"
+  },
+  {
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "BAKE Token",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "BAKE"
+  },
+  {
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+          "chainId": 56,
+          "decimals": 18,
+          "name": "Ripple Token",
+          "projectLink": "http://212.71.233.123:2083/tokens/sbt.png",
+          "symbol": "XRP"
+  },
+  {
+    "address": "0x8079d7f88b4a97630052a70b324245e8402c8e17",
+    "chainId": 5,
+    "decimals": 18,
+    "name": "ETH Token",
+    "projectLink": "https://www.paxos.com/busd/",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0xb6b12c94d75b7ab557819cffef5926e64ed95346",
+          "chainId": 5,
+          "decimals": 18,
+          "name": "BUSD",
+          "projectLink": "http://picnicswap.wealwin.com/logo.png",
+          "symbol": "BUSD"
+  },
+  {
+    "address": "0xba090abead1ec56bc2691b4f0c500dbe1cfaf842",
+          "chainId": 5,
+          "decimals": 18,
+          "name": "IND coin",
+          "projectLink": "http://picnicswap.wealwin.com/logo.png",
+          "symbol": "INDcoin"
+  },
+  {
+    "address": "0x350fbf9431e15ecb491723ef2324c51d8f1e6758",
+          "chainId": 5,
+          "decimals": 18,
+          "name": "Tether USD",
+          "projectLink": "http://picnicswap.wealwin.com/logo.png",
+          "symbol": "USDT"
+  },
+  {
+    "address": "0xa652b4e2677d0aa7c938abc63d1e280b2862e57c",
+          "chainId": 5,
+          "decimals": 18,
+          "name": "USDC",
+          "projectLink": "http://picnicswap.wealwin.com/logo.png",
+          "symbol": "USDC"
+  }
+  ]

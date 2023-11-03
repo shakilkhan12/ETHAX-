@@ -1,0 +1,21 @@
+{
+    "tokens": [
+        {
+            "lpSymbol": "ETHAX",
+            "pid": 2,
+            "sousId": 0,
+            "stakingToken": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4",
+            "earningToken": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4",
+            "contractAddress": {
+                "97": "0x854F7Cd3677737241E3eED0dC3d7F33DFAF72Bc4",
+                "56": "0x1a8EE6994970F4967227cBBa3fB06ca2bbdD0aEc"
+            },
+            "poolCategory": "PoolCategory.CORE",
+            "harvest": true,
+            "tokenPerBlock": "10",
+            "sortOrder": 0,
+            "isFinished": false,
+            "status": "Live"
+        }
+    ]
+}

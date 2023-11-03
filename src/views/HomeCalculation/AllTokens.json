@@ -1,0 +1,28 @@
+{
+    "tokens": [
+        {
+            "pid": 0,
+            "lpSymbol": "ETHAX-BUSD LP",
+            "lpAddresses": {
+                "97": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA",
+                "56": "0xEbCD635a395e2ecE39A7583fe8b6792DD79f02cA"
+            },
+            "tokensymbol": "ETHAX",
+            "quoteTokenSymbol": "BUSD",
+            "quoteTokenAdresses": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "tokenAddresses": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4"
+        },
+        {
+            "pid": 1,
+            "lpSymbol": "ETHAX-BNB LP",
+            "lpAddresses": {
+                "97": "0x1915ddEb50db91a50Ae9afad343fa75512fbf220",
+                "56": "0x1915ddEb50db91a50Ae9afad343fa75512fbf220"
+            },
+            "tokensymbol": "ETHAX",
+            "quoteTokenSymbol": "WBNB",
+            "quoteTokenAdresses": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "tokenAddresses": "0x854f7cd3677737241e3eed0dc3d7f33dfaf72bc4"
+        }
+    ]
+}
